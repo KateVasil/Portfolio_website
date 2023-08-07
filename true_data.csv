@@ -1,0 +1,16 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/KateVasil/todo-app.git;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/KateVasil/Portfolio_website.git;2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/KateVasil/PDF_Templates.git;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/KateVasil/PDF_Invoices.git;4.png
+News Site;A website that gets data from a news API.;https://github.com/KateVasil/News_Application.git;5.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/KateVasil/Weather_API.git;6.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/KateVasil/Tour_Scraper.git;8.png
+Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using davinci GPT from OpenAI.;https://github.com/KateVasil/Open_Domain_Chatbot.git;10.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/KateVasil/Webcam_Motion_Detector.git;11.png
+Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://github.com/KateVasil/Positivity-Negativity_Text_Analyzera.git;12.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/KateVasil/Visualizing_Weather_Forecast.git;16.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/KateVasil/Student_Management_System.git;17.png
+School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://github.com/KateVasil/School_Management_System_SQL.git;18.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/KateVasil/Restaurant_Menu_Web_App.git;19.png
+Job application Form;An online job application made with Flask;https://github.com/KateVasil/Job_application_form.git;21.png
